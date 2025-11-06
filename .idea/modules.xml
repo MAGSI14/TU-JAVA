@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/UniPnpe.iml" filepath="$PROJECT_DIR$/UniPnpe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_2_SU/_10_ZAD2/_10_ZAD2.iml" filepath="$PROJECT_DIR$/_2_SU/_10_ZAD2/_10_ZAD2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_3_SU/_1_1ZAD/_1_1ZAD.iml" filepath="$PROJECT_DIR$/_3_SU/_1_1ZAD/_1_1ZAD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_3_LU/_1_3ZAD/_1_3ZAD.iml" filepath="$PROJECT_DIR$/_3_LU/_1_3ZAD/_1_3ZAD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_5_LU/_1_5ZAD/_1_5ZAD.iml" filepath="$PROJECT_DIR$/_5_LU/_1_5ZAD/_1_5ZAD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_1_LU/_1_LU.iml" filepath="$PROJECT_DIR$/_1_LU/_1_LU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_1_SU/_1_SU.iml" filepath="$PROJECT_DIR$/_1_SU/_1_SU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_2_LU/_1_ZAD/_1_ZAD.iml" filepath="$PROJECT_DIR$/_2_LU/_1_ZAD/_1_ZAD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_2_SU/_1_ZAD2/_1_ZAD2.iml" filepath="$PROJECT_DIR$/_2_SU/_1_ZAD2/_1_ZAD2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_4_LU/_1_ZAD4/_1_ZAD4.iml" filepath="$PROJECT_DIR$/_4_LU/_1_ZAD4/_1_ZAD4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_1_lekciq/_1_lekciq.iml" filepath="$PROJECT_DIR$/_1_lekciq/_1_lekciq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_3_SU/_2_2ZAD/_2_2ZAD.iml" filepath="$PROJECT_DIR$/_3_SU/_2_2ZAD/_2_2ZAD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_3_LU/_2_3ZAD/_2_3ZAD.iml" filepath="$PROJECT_DIR$/_3_LU/_2_3ZAD/_2_3ZAD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_2_LU/_2_LU.iml" filepath="$PROJECT_DIR$/_2_LU/_2_LU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_2_SU/_2_SU.iml" filepath="$PROJECT_DIR$/_2_SU/_2_SU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_2_LU/_2_ZAD/_2_ZAD.iml" filepath="$PROJECT_DIR$/_2_LU/_2_ZAD/_2_ZAD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_2_SU/_2_ZAD2/_2_ZAD2.iml" filepath="$PROJECT_DIR$/_2_SU/_2_ZAD2/_2_ZAD2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_4_LU/_2_ZAD4/_2_ZAD4.iml" filepath="$PROJECT_DIR$/_4_LU/_2_ZAD4/_2_ZAD4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_3_LU/_3_3ZAD/_3_3ZAD.iml" filepath="$PROJECT_DIR$/_3_LU/_3_3ZAD/_3_3ZAD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_3_LU/_3_LU.iml" filepath="$PROJECT_DIR$/_3_LU/_3_LU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_3_SU/_3_SU.iml" filepath="$PROJECT_DIR$/_3_SU/_3_SU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_2_LU/_3_ZAD/_3_ZAD.iml" filepath="$PROJECT_DIR$/_2_LU/_3_ZAD/_3_ZAD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_2_SU/_3_ZAD2/_3_ZAD2.iml" filepath="$PROJECT_DIR$/_2_SU/_3_ZAD2/_3_ZAD2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_3_SU/_3_ZAD3/_3_ZAD3.iml" filepath="$PROJECT_DIR$/_3_SU/_3_ZAD3/_3_ZAD3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_4_LU/_3_ZAD4/_3_ZAD4.iml" filepath="$PROJECT_DIR$/_4_LU/_3_ZAD4/_3_ZAD4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_4_LU/_4_LU.iml" filepath="$PROJECT_DIR$/_4_LU/_4_LU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_2_LU/_4_ZAD/_4_ZAD.iml" filepath="$PROJECT_DIR$/_2_LU/_4_ZAD/_4_ZAD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_2_SU/_4_ZAD2/_4_ZAD2.iml" filepath="$PROJECT_DIR$/_2_SU/_4_ZAD2/_4_ZAD2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_4_LU/_4_ZAD4/_4_ZAD4.iml" filepath="$PROJECT_DIR$/_4_LU/_4_ZAD4/_4_ZAD4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_5_LU/_5_LU.iml" filepath="$PROJECT_DIR$/_5_LU/_5_LU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_2_SU/_5_ZAD2/_5_ZAD2.iml" filepath="$PROJECT_DIR$/_2_SU/_5_ZAD2/_5_ZAD2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_2_SU/_6_ZAD2/_6_ZAD2.iml" filepath="$PROJECT_DIR$/_2_SU/_6_ZAD2/_6_ZAD2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_2_SU/_7_ZAD2/_7_ZAD2.iml" filepath="$PROJECT_DIR$/_2_SU/_7_ZAD2/_7_ZAD2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_2_SU/_8_ZAD2/_8_ZAD2.iml" filepath="$PROJECT_DIR$/_2_SU/_8_ZAD2/_8_ZAD2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_2_SU/_9_ZAD2/_9_ZAD2.iml" filepath="$PROJECT_DIR$/_2_SU/_9_ZAD2/_9_ZAD2.iml" />
+    </modules>
+  </component>
+</project>
